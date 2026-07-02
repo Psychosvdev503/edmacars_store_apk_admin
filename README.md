@@ -1,29 +1,26 @@
 ﻿# Store Edmacars Admin — APK
 
-APK del panel admin para **Edmacars Store Clean**.
+Panel admin premium para **Edmacars Store**.
 
 | Campo | Valor |
 |-------|-------|
 | **App** | Store Edmacars Admin |
-| **Versión** | 1.0.0 |
-| **Package** | `com.edmacars.admin.clean` |
-| **Supabase** | `bcuiiiryqbxvclftiwqt` |
-| **Web / API** | [edmacars-store.vercel.app](https://edmacars-store.vercel.app) |
+| **Versión** | 1.1.0 |
+| **Web** | [edmacars-store.vercel.app](https://edmacars-store.vercel.app) |
 
-## Descarga
+## Descarga v1.1.0 (panel premium + ficha técnica)
 
-- [Store-Edmacars-Admin-v1.0.0.apk](./Store-Edmacars-Admin-v1.0.0.apk) (~66 MB)
+- [Store-Edmacars-Admin-v1.1.0.apk](./Store-Edmacars-Admin-v1.1.0.apk)
 
-Enlace directo (raw):
+Raw: `https://github.com/Psychosvdev503/edmacars_store_apk_admin/raw/main/Store-Edmacars-Admin-v1.1.0.apk`
 
-`https://github.com/Psychosvdev503/edmacars_store_apk_admin/raw/main/Store-Edmacars-Admin-v1.0.0.apk`
+## v1.1.0
 
-## Instalación
+- Vista previa web en tiempo real
+- Ficha técnica editable (concentración, durabilidad, ML, usos, certificación)
+- Cards de producto con foto + stock visible
+- Stock y precio en catálogo admin
 
-1. Desinstala versiones anteriores del admin.
-2. Descarga e instala el APK.
-3. Abre **Store Edmacars Admin** — conecta a Supabase + Vercel.
+## Repo código
 
-## Repo principal
-
-Código web + admin-app: [edmacars_store](https://github.com/Psychosvdev503/edmacars_store)
+[edmacars_store](https://github.com/Psychosvdev503/edmacars_store)
