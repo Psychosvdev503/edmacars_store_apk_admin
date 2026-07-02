@@ -8,6 +8,7 @@ APK del panel admin para **Edmacars Store Clean**.
 | **Versión** | 1.0.0 |
 | **Package** | `com.edmacars.admin.clean` |
 | **Supabase** | `bcuiiiryqbxvclftiwqt` |
+| **Web / API** | [edmacars-store.vercel.app](https://edmacars-store.vercel.app) |
 
 ## Descarga
 
@@ -20,15 +21,8 @@ Enlace directo (raw):
 ## Instalación
 
 1. Desinstala versiones anteriores del admin.
-2. Descarga e instala el APK (permite fuentes desconocidas si Android lo pide).
-3. Abre **Store Edmacars Admin** — debe conectar a Supabase sin error de red.
-
-## OTA
-
-En Ajustes de la app puedes configurar actualizaciones OTA con:
-
-- **Versión:** `1.0.0` (o la nueva)
-- **URL APK:** el enlace raw de arriba
+2. Descarga e instala el APK.
+3. Abre **Store Edmacars Admin** — conecta a Supabase + Vercel.
 
 ## Repo principal
 
